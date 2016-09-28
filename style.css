@@ -37,11 +37,12 @@ li a:hover {
 	background-color:  #99ccff;
 }i
 
-/*
+
 #bioImage{
-	
+	width: 128 px;
+	height: 96 px;
 }
-*/
+
 
 .active{
 	background-color:#80dfff;
